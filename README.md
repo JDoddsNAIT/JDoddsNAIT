@@ -1,4 +1,5 @@
-### Hi there 👋
+### Howdy!! 👋
+I'm Jonathan Dodds, a Game Programming student at the Northern Alberta Institute of Technology (NAIT). <!-- 2024-2025 -->
 
 <!--
 **JDoddsNAIT/JDoddsNAIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
